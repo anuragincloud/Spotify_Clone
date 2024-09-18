@@ -8,6 +8,6 @@ This is a web-based music player built using HTML, CSS, and JavaScript, modeled 
 - Responsive Design: Optimized for all screen sizes and devices.
 
 # Technologies Used
-HTML5: Structure of the web application.
-CSS3: Styling and layout of the music player.
-JavaScript: Handling of audio playback and interactivity.
+- HTML5: Structure of the web application.
+- CSS3: Styling and layout of the music player.
+- JavaScript: Handling of audio playback and interactivity.
